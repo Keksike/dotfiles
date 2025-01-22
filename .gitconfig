@@ -1,0 +1,6 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Cihan Bebek
+	email = cihan.m.bebek@gmail.com
+[rebase]
+	updateRefs = true
