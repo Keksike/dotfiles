@@ -22,8 +22,6 @@ brew install --cask cursor
 ln -s ~/Projects/dotfiles/.zshrc ~/.zshrc
 ln -s ~/Projects/dotfiles/.gitconfig ~/.gitconfig
 ln -s ~/Projects/dotfiles/.gitignore ~/.gitignore
-ln -s ~/Projects/dotfiles/.tmux.conf ~/.tmux.conf
-ln -s ~/Projects/dotfiles/.p10k.zsh ~/.p10k.zsh
 ```
 
 ### Useful
